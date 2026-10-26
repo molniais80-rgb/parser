@@ -9,7 +9,7 @@ from TelegramGifts import TelegramGifts
 BOT_TOKEN = "8651733678:AAEkKpXTqTLF8gAx5t3rEbYD8zTHgG6ig3E"
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token=8651733678:AAEkKpXTqTLF8gAx5t3rEbYD8zTHgG6ig3E)
+bot = Bot(token="8651733678:AAEkKpXTqTLF8gAx5t3rEbYD8zTHgG6ig3E")
 dp = Dispatcher()
 
 gifts_db = None
