@@ -6,10 +6,10 @@ from aiogram.types import Message, CallbackQuery
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from TelegramGifts import TelegramGifts
 
-BOT_TOKEN = "8651733678:AAHir2wOkalFpb7bjYUOCHfAwCMJrfxdzM"
+BOT_TOKEN = "8651733678:AAEkKpXTqTLF8gAx5t3rEbYD8zTHgG6ig3E"
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token=8651733678:AAEkKpXTqTLF8gAx5t3rEbYD8zTHgG6ig3E)
 dp = Dispatcher()
 
 gifts_db = None
